@@ -20,7 +20,17 @@
 | `FE` 기술적 목표 | - React Hook API 활용<br>- styled-component 도전<br>- javascript 함수 상황에 맞게 사용                                                 |
 |`BE` 기술적 목표 | - 실시간 서비스 구현 (댓글 업데이트)<br>- 자세한 테스트 코드 작성 (coverage 70% 이상)                                                                                                  |
 
+## ERD
+![image](https://github.com/Yang-soeun/33ma3/assets/87464750/1008e04d-e9e2-4c33-bbff-f3a78560c457)
 
+## 인프라 구성도
+![image](https://github.com/Yang-soeun/33ma3/assets/87464750/4181d30c-6214-41d4-88db-debb00e051a6)
+
+## API 문서
+https://docs.google.com/spreadsheets/d/1lSCakm8oR8qhX_b3qmjqio8vrQXmeJwbhzT1pDJFIKM/edit?usp=sharing
+
+## 기획 / 디자인 산출물 🌸
+https://www.figma.com/file/VEBy2qa3Y0ZbZSDUr50v6W/33MA3?type=design&node-id=0-1&mode=design&t=vypBQaEwXPJSfxsc-0
 
 ## 그라운드 룰 🛠
 
@@ -84,6 +94,3 @@
 
 ## 기타
 ```
-
-## 기획 / 디자인 산출물 🌸
-https://www.figma.com/file/VEBy2qa3Y0ZbZSDUr50v6W/33MA3?type=design&node-id=0-1&mode=design&t=vypBQaEwXPJSfxsc-0
